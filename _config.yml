@@ -23,7 +23,7 @@ repository               : "Tangoz1003/Tangoz1003.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "..images/tangoz.png"
+  avatar           : "../images/tangoz.png"
   name             : "Gongzheng Tang（唐功政）"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
