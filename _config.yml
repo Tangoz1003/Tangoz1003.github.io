@@ -24,7 +24,7 @@ repository               : "Tangoz1003/Tangoz1003.github.io"
 author:
   # Biographic information
   avatar           : "../images/tangoz.png"
-  name             : "Gongzheng Tang \n（唐功政）"
+  name             : "Gongzheng Tang<br><span style='display: block; text-align: center; margin-top: 4px;'>（唐功政）</span>"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
   location         : "Beijing, China"
